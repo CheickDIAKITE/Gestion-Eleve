@@ -2,7 +2,7 @@
 #include <fstream>
 #include <vector>
 #include "eleve.h"
-# ecrire quelque chose
+# ecrire quelque chose : J ai ecris qlq
 
 using namespace std;
 
